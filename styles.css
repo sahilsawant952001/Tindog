@@ -51,7 +51,7 @@ body
 
 .container-fluid
 {
-    padding: 3% 13%;
+    padding: 3% 10%;
 }
 
 .container-fluid-item
@@ -96,7 +96,7 @@ h2
     line-height: 5rem;
     font-family: 'Handlee', cursive;
     font-size: 3rem;
-    margin: 8%;
+    margin: 4%;
 }
 
 
@@ -159,7 +159,7 @@ h4
 
 .sec-btn
 {
-   margin: 10% 1% 10% 0;
+   margin: 5% 0.5% 5% 0;
 }
 
 .sec-img
